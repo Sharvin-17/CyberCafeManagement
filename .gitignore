@@ -1,0 +1,13 @@
+# Executables and build artifacts
+cybercafe
+cybercafe.exe
+*.o
+*.out
+*.exe
+
+# OS & Editor files
+.DS_Store
+*.swp
+*~
+.vscode/
+.idea/
